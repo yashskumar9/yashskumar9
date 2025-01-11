@@ -73,7 +73,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/yashskumar9/yashskumar9/output/snake.svg" alt="Snake animation" />
-
-###
